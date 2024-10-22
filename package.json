@@ -20,33 +20,24 @@
     "date-fns": "^3.6.0",
     "lucide-react": "^0.441.0",
     "next": "14.2.10",
-    "react": "^18.3.1",
+    "react": "^18",
     "react-day-picker": "^8.10.1",
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
     "react-dnd-touch-backend": "^16.0.1",
-    "react-dom": "^18.3.1",
+    "react-dom": "^18",
     "react-swipeable": "^7.0.1",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^18.3.11",
-    "@types/react-dom": "^18.3.1",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
     "eslint": "^8",
     "eslint-config-next": "14.2.10",
-    "parcel": "^2.12.0",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5.6.3"
-  },
-  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "typescript": "^5"
+  }
 }
